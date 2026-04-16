@@ -20,7 +20,7 @@ Semestre: 1º
 
 - João Paulo Gonçalves - [GitHub](https://github.com/jpgb2023)
 - João Vitor Orlandini Gales - [GitHub](https://github.com/jvogales)
-- Gabriel Sasaki - [GitHub](https://github.com/seu-usuario)
+- Gabriel Sasaki Roncaglia - [GitHub](https://github.com/seu-usuario)
 - Gustavo Seiji Tanaka - [GitHub](https://github.com/seu-usuario)
 
 *(Inserir foto dos integrantes futuramente)*

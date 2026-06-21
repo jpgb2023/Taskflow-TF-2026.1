@@ -3,16 +3,11 @@
 ## 👥 Nome do Grupo
 **Taskflow**
 
-*(Inserir logo aqui futuramente)*
-
----
-
 ## 🎓 Disciplina
-
 **Desenvolvimento Ágil**  
 Engenharia da Computação  
 Ano: 2026  
-Semestre: 1º
+Semestre: 2026.1
 
 ---
 
@@ -20,12 +15,8 @@ Semestre: 1º
 
 - João Paulo Gonçalves - [GitHub](https://github.com/jpgb2023)
 - João Vitor Orlandini Gales - [GitHub](https://github.com/jvogales)
-- Gabriel Sasaki Roncaglia - [GitHub](https://github.com/seu-usuario)
-- Gustavo Seiji Tanaka - [GitHub](https://github.com/seu-usuario)
-
-*(Inserir foto dos integrantes futuramente)*
-
----
+- Gabriel Sasaki Roncaglia - [GitHub](https://github.com/SuperKipipling))
+- Gustavo Seiji Tanaka - [GitHub](https://github.com/SeijiTnk1)
 
 ## 🚀 Sobre o Projeto
 
@@ -51,7 +42,9 @@ Usuários que desejam organizar suas tarefas diárias de forma simples, como est
 
 ## 📂 Documentos do Repositório
 
-*(Os links serão adicionados conforme o desenvolvimento do projeto)*
+Projects: 
+(https://github.com/users/jpgb2023/projects/2)
+(https://github.com/users/jpgb2023/projects/1)
 
 - 📄 Backlog do Produto  
 - 📄 Histórias de Usuário  

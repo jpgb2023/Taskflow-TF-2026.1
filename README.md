@@ -18,6 +18,8 @@ Semestre: 2026.1
 - Gabriel Sasaki Roncaglia - [GitHub](https://github.com/SuperKipipling))
 - Gustavo Seiji Tanaka - [GitHub](https://github.com/SeijiTnk1)
 
+## Link do vídeo de apresentação
+(https://www.youtube.com/watch?v=Zg-ClzebSKI)
 ## 🚀 Sobre o Projeto
 
 O **TaskFlow** é um sistema de gerenciamento de tarefas (To-do List) desenvolvido com o objetivo de auxiliar usuários na organização de suas atividades diárias de forma simples, prática e eficiente.
